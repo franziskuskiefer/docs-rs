@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Errors that might occur in this crate."]],"struct":[["AuthData","Authentication data such as BE token."],["Client","The client represents a local user."],["Contact","Contact information about another user."],["Group","Group information."]]});

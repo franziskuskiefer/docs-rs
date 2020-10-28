@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["cli_client"] = [{"text":"impl Sync for ClientApp","synthetic":true,"types":[]},{"text":"impl Sync for CliOptions","synthetic":true,"types":[]},{"text":"impl Sync for Error","synthetic":true,"types":[]}];
+implementors["end"] = [{"text":"impl Sync for Storage","synthetic":true,"types":[]},{"text":"impl Sync for Error","synthetic":true,"types":[]}];
+implementors["human"] = [{"text":"impl Sync for Contact","synthetic":true,"types":[]},{"text":"impl Sync for Group","synthetic":true,"types":[]},{"text":"impl Sync for AuthData","synthetic":true,"types":[]},{"text":"impl Sync for Client","synthetic":true,"types":[]},{"text":"impl Sync for Error","synthetic":true,"types":[]}];
+implementors["idem"] = [{"text":"impl Sync for Identity","synthetic":true,"types":[]}];
+implementors["mema"] = [{"text":"impl Sync for Message","synthetic":true,"types":[]},{"text":"impl Sync for Conversation","synthetic":true,"types":[]},{"text":"impl Sync for MessageType","synthetic":true,"types":[]}];
+implementors["nela"] = [{"text":"impl Sync for LoginMessage","synthetic":true,"types":[]},{"text":"impl Sync for ServerConfig","synthetic":true,"types":[]},{"text":"impl Sync for Nela","synthetic":true,"types":[]},{"text":"impl Sync for Error","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

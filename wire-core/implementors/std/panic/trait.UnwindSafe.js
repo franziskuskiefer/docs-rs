@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["cli_client"] = [{"text":"impl UnwindSafe for ClientApp","synthetic":true,"types":[]},{"text":"impl UnwindSafe for CliOptions","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Error","synthetic":true,"types":[]}];
+implementors["end"] = [{"text":"impl UnwindSafe for Storage","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Error","synthetic":true,"types":[]}];
+implementors["human"] = [{"text":"impl UnwindSafe for Contact","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Group","synthetic":true,"types":[]},{"text":"impl UnwindSafe for AuthData","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Client","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Error","synthetic":true,"types":[]}];
+implementors["idem"] = [{"text":"impl UnwindSafe for Identity","synthetic":true,"types":[]}];
+implementors["mema"] = [{"text":"impl UnwindSafe for Message","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Conversation","synthetic":true,"types":[]},{"text":"impl UnwindSafe for MessageType","synthetic":true,"types":[]}];
+implementors["nela"] = [{"text":"impl UnwindSafe for LoginMessage","synthetic":true,"types":[]},{"text":"impl UnwindSafe for ServerConfig","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Nela","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Error","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

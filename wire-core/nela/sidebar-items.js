@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Errors that might occur on the networking layer."]],"struct":[["LoginMessage",""],["Nela","The main entry point for networking operations holding the configuration."],["ServerConfig","Server configuration."]],"type":[["PushNotificationListener","Function pointer to retrieve push notifications from the server."]]});

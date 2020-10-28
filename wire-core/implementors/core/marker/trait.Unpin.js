@@ -1,0 +1,8 @@
+(function() {var implementors = {};
+implementors["cli_client"] = [{"text":"impl Unpin for ClientApp","synthetic":true,"types":[]},{"text":"impl Unpin for CliOptions","synthetic":true,"types":[]},{"text":"impl Unpin for Error","synthetic":true,"types":[]}];
+implementors["end"] = [{"text":"impl Unpin for Storage","synthetic":true,"types":[]},{"text":"impl Unpin for Error","synthetic":true,"types":[]}];
+implementors["human"] = [{"text":"impl Unpin for Contact","synthetic":true,"types":[]},{"text":"impl Unpin for Group","synthetic":true,"types":[]},{"text":"impl Unpin for AuthData","synthetic":true,"types":[]},{"text":"impl Unpin for Client","synthetic":true,"types":[]},{"text":"impl Unpin for Error","synthetic":true,"types":[]}];
+implementors["idem"] = [{"text":"impl Unpin for Identity","synthetic":true,"types":[]}];
+implementors["mema"] = [{"text":"impl Unpin for Message","synthetic":true,"types":[]},{"text":"impl Unpin for Conversation","synthetic":true,"types":[]},{"text":"impl Unpin for MessageType","synthetic":true,"types":[]}];
+implementors["nela"] = [{"text":"impl Unpin for LoginMessage","synthetic":true,"types":[]},{"text":"impl Unpin for ServerConfig","synthetic":true,"types":[]},{"text":"impl Unpin for Nela","synthetic":true,"types":[]},{"text":"impl Unpin for Error","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
