@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors["cli_client"] = [{"text":"impl RefUnwindSafe for ClientApp","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for CliOptions","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Error","synthetic":true,"types":[]}];
+implementors["client"] = [{"text":"impl RefUnwindSafe for ClientApp","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for CliOptions","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Error","synthetic":true,"types":[]}];
 implementors["end"] = [{"text":"impl RefUnwindSafe for Storage","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Error","synthetic":true,"types":[]}];
 implementors["human"] = [{"text":"impl RefUnwindSafe for Contact","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Group","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for AuthData","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Client","synthetic":true,"types":[]},{"text":"impl RefUnwindSafe for Error","synthetic":true,"types":[]}];
 implementors["idem"] = [{"text":"impl RefUnwindSafe for Identity","synthetic":true,"types":[]}];

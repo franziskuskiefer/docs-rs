@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors["cli_client"] = [{"text":"impl Send for ClientApp","synthetic":true,"types":[]},{"text":"impl Send for CliOptions","synthetic":true,"types":[]},{"text":"impl Send for Error","synthetic":true,"types":[]}];
+implementors["client"] = [{"text":"impl Send for ClientApp","synthetic":true,"types":[]},{"text":"impl Send for CliOptions","synthetic":true,"types":[]},{"text":"impl Send for Error","synthetic":true,"types":[]}];
 implementors["end"] = [{"text":"impl Send for Storage","synthetic":true,"types":[]},{"text":"impl Send for Error","synthetic":true,"types":[]}];
 implementors["human"] = [{"text":"impl Send for Contact","synthetic":true,"types":[]},{"text":"impl Send for Group","synthetic":true,"types":[]},{"text":"impl Send for AuthData","synthetic":true,"types":[]},{"text":"impl Send for Client","synthetic":true,"types":[]},{"text":"impl Send for Error","synthetic":true,"types":[]}];
 implementors["idem"] = [{"text":"impl Send for Identity","synthetic":true,"types":[]}];

@@ -1,5 +1,5 @@
 (function() {var implementors = {};
-implementors["cli_client"] = [{"text":"impl Freeze for ClientApp","synthetic":true,"types":[]},{"text":"impl Freeze for CliOptions","synthetic":true,"types":[]},{"text":"impl Freeze for Error","synthetic":true,"types":[]}];
+implementors["client"] = [{"text":"impl Freeze for ClientApp","synthetic":true,"types":[]},{"text":"impl Freeze for CliOptions","synthetic":true,"types":[]},{"text":"impl Freeze for Error","synthetic":true,"types":[]}];
 implementors["end"] = [{"text":"impl Freeze for Storage","synthetic":true,"types":[]},{"text":"impl Freeze for Error","synthetic":true,"types":[]}];
 implementors["human"] = [{"text":"impl Freeze for Contact","synthetic":true,"types":[]},{"text":"impl Freeze for Group","synthetic":true,"types":[]},{"text":"impl Freeze for AuthData","synthetic":true,"types":[]},{"text":"impl Freeze for Client","synthetic":true,"types":[]},{"text":"impl Freeze for Error","synthetic":true,"types":[]}];
 implementors["idem"] = [{"text":"impl Freeze for Identity","synthetic":true,"types":[]}];
